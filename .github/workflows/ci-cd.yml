@@ -6,7 +6,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: danilacoffee/my-node-app
+  IMAGE_NAME: danilacoffee/mynodeapp
 
 jobs:
   test-and-build:
